@@ -55,4 +55,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&border_radius=10)
 
+## 📈 Contribution Graph  
+
+![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true&area=true)
+
 
