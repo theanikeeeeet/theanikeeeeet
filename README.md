@@ -51,12 +51,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 Stats & Languages  
+## 📊 Languages  
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&hide_border=false&border_radius=10" width="47%" height="200px"/>
-  &nbsp;&nbsp;
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=false&border_radius=10" width="47%" height="200px"/>
 </p>
