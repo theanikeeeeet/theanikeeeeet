@@ -51,11 +51,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 Languages  
+ ## 📊 Most Used Languages  
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=false&border_radius=10" width="47%" height="200px"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200px"/>
 </p>
+
 
 
 
