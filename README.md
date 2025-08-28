@@ -54,9 +54,11 @@ Here are some ideas to get you started:
 ## 📊 Stats & Languages  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&hide_border=true" width="47%" />
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&hide_border=true" height="200" width="47%" />  
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=true" height="200" width="47%" />
 </p>
 
 
