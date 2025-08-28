@@ -63,6 +63,15 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
+
+  <!-- Spotify with border -->
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="160" style="border: 2px solid #1DB954; border-radius: 15px;"/>
+  </a>
+
+</div>
+
 
 
 
