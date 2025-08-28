@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔥 Contribution Streak  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theanikeeeeet&theme=radical)
