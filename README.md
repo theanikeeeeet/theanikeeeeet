@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 -->
 ## 🔥 Contribution Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theanikeeeeet&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&border_radius=10)
+
