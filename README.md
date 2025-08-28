@@ -51,9 +51,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔥 Contribution Streak  
+## 📊 Stats & Languages  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&border_radius=10)
+<div align="center">
+
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&border_radius=10" height="180" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=true" height="180" />
+
+</div>
+
 
 ## 📈 Contribution Graph  
 
