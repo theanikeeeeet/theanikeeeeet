@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 
 </div>
 
+## 📈 Contribution Graph  
+
+![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true&area=true)
+
 
 
 <div align="center">
@@ -74,13 +78,5 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
-
-
-
-## 📈 Contribution Graph  
-
-![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true&area=true)
 
 
