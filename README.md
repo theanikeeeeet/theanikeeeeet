@@ -55,13 +55,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&border_radius=10" height="180" width="45%" />
+  <!-- Contribution Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=theanikeeeeet&theme=radical&hide_border=false&border_radius=15" height="180" width="45%" />
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" width="45%" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=false&border_radius=15" height="180" width="45%" />
 
 </div>
+
 
 
 
