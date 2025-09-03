@@ -70,11 +70,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=lckssbfpmf96of81p37dh51ce">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lckssbfpmf96of81p37dh51ce" alt="Data Card for Spotify">
-</a>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lckssbfpmf96of81p37dh51ce&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
 
 </div>
 
