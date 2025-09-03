@@ -70,10 +70,15 @@ Here are some ideas to get you started:
 
 
 
-**<p align="center">
-  <img src="https://your-domain.com/spotify-vertical.svg" alt="Spotify Vertical Widget" width="150" />
+<p align="center">
+  <div style="transform: rotate(-90deg); display: inline-block;">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
+      width="150"
+      alt="Spotify Now Playing" />
+  </div>
 </p>
-**
+
 
 
 
