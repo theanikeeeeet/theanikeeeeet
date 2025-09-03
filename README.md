@@ -71,7 +71,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://your-domain.vercel.app/api/spotify-vertical?uid=YOUR_UID" alt="Spotify Vertical Now Playing" />
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
+    width="150"
+    alt="Spotify Now Playing" />
 </p>
 
 
