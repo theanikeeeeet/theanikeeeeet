@@ -72,10 +72,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- Spotify with border -->
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="160" style="border: 2px solid #1DB954; border-radius: 15px;"/>
-  </a>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=lckssbfpmf96of81p37dh51ce">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lckssbfpmf96of81p37dh51ce" alt="Data Card for Spotify">
+</a>
 
 </div>
 
