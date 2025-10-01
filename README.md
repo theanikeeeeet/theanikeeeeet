@@ -1,7 +1,6 @@
-# Hi there, I'm Aniket Raj 👋  
-
-Welcome to my GitHub profile!  
-I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer** who loves blending creativity with technology.  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aniket Raj</h1>
+<h3 align="center">Frontend Developer • Video Editor • UI/UX Designer • Event Manager • Content Creator • Product Builder</h3>
 
 ---
 
@@ -15,156 +14,69 @@ I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer*
 
 ---
 
-## 🧰 Tech & Design Toolbox  
-
-<p align="center">
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <br>HTML5
-  <br><br>
-
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <br>CSS3
-  <br><br>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a>
-  <br>TypeScript
-  <br><br>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <br>JavaScript
-  <br><br>
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a>
-  <br>React
-  <br><br>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <br>Node.js
-  <br><br>
-
-  <!-- SQL -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
-  </a>
-  <br>SQL
-  <br><br>
-
-  <!-- ActionScript -->
-  <a href="https://www.adobe.com/products/animate.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50"/>
-  </a>
-  <br>ActionScript
-  <br><br>
-
-  <!-- AngelScript -->
-  <a href="https://www.angelcode.com/angelscript/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50"/>
-  </a>
-  <br>AngelScript
-  <br><br>
-
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" width="50" height="50"/>
-  </a>
-  <br>Canva
-  <br><br>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  </a>
-  <br>Figma
-  <br><br>
-
-  <!-- Adobe Premiere Pro -->
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Premiere Pro" width="50" height="50"/>
-  </a>
-  <br>Video Editing
-  <br><br>
-
-  <!-- Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
-  <br>Photo Editing
-  <br><br>
-
-</p>
-
-
-
-----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.instagram.com/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <br><br>
   <a href="https://x.com/theanikeeeeet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="color:#000000"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color:#0A66C2"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <br><br>
   <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40" style="color:#FFA116"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
-
 ---
 
-## 📊 Most Used Languages  
+## 🧰 Tech & Design Toolbox  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200px"/>
-</p>  
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50"/>
+
+  <!-- Design & Editing Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true&area=true" alt="Aniket's github activity graph"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=theanikeeeeet&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanikeeeeet&theme=radical" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🎧 Spotify Now Playing  
+## 🎵 Currently Vibing To  
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="250" alt="Spotify Now Playing" />
-</p>  
+  <a href="https://open.spotify.com/user/31msdhntqihj4y5kyrxgkz3sybva">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31msdhntqihj4y5kyrxgkz3sybva&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  </a>
+</p>
 
 ---
-
-## ✨ Fun Extras  
-
-- ⚡ Fun fact: *I balance both creative design and hardcore coding!*  
-- 💡 Motto: *“Creativity + Technology = Innovation 🚀”*  
-
----
-
-**Let's connect and build cool stuff together!** 🚀  
