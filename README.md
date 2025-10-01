@@ -17,78 +17,101 @@ I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer*
 
 ## 🧰 Tech & Design Toolbox  
 
-**Languages & Frameworks:**  
-
 <p align="center">
+
+  <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a><br>HTML5
+  </a>
+  <br>HTML5
   <br><br>
 
+  <!-- CSS3 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a><br>CSS3
+  </a>
+  <br>CSS3
   <br><br>
 
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a><br>TypeScript
+  </a>
+  <br>TypeScript
   <br><br>
 
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a><br>JavaScript
+  </a>
+  <br>JavaScript
   <br><br>
 
+  <!-- React -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a><br>React
+  </a>
+  <br>React
   <br><br>
 
+  <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  </a><br>Node.js
+  </a>
+  <br>Node.js
   <br><br>
 
+  <!-- SQL -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
-  </a><br>SQL
+  </a>
+  <br>SQL
   <br><br>
 
+  <!-- ActionScript -->
   <a href="https://www.adobe.com/products/animate.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50" style="color:#FF0000"/>
-  </a><br>ActionScript
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50"/>
+  </a>
+  <br>ActionScript
   <br><br>
 
+  <!-- AngelScript -->
   <a href="https://www.angelcode.com/angelscript/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50" style="color:#ED1C24"/>
-  </a><br>AngelScript
-</p>  
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50"/>
+  </a>
+  <br>AngelScript
+  <br><br>
 
----
-
-**Design & Editing Tools:**  
-
-<p align="center">
+  <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" width="50" height="50"/>
-  </a><br>Canva
+  </a>
+  <br>Canva
   <br><br>
 
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  </a><br>Figma
+  </a>
+  <br>Figma
   <br><br>
 
+  <!-- Adobe Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="50" height="50"/>
-  </a><br>Video Editing
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Premiere Pro" width="50" height="50"/>
+  </a>
+  <br>Video Editing
   <br><br>
 
+  <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50"/>
-  </a><br>Photo Editing
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+  </a>
+  <br>Photo Editing
+  <br><br>
+
 </p>
+
 
 
 ----
