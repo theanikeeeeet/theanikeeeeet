@@ -20,23 +20,49 @@ I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer*
 **Languages & Frameworks:**  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/><br>HTML5  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  </a><br>HTML5
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/><br>CSS3  
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  </a><br>CSS3
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/><br>TypeScript  
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a><br>TypeScript
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/><br>JavaScript  
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a><br>JavaScript
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/><br>React  
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  </a><br>React
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/><br>Node.js  
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  </a><br>Node.js
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="50" height="50"/><br>SQL  
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
+  </a><br>SQL
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" title="ActionScript" alt="ActionScript" width="50" height="50"/><br>ActionScript  
+
+  <a href="https://www.adobe.com/products/animate.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50" style="color:#FF0000"/>
+  </a><br>ActionScript
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" title="AngelScript" alt="AngelScript" width="50" height="50"/><br>AngelScript  
+
+  <a href="https://www.angelcode.com/angelscript/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50" style="color:#ED1C24"/>
+  </a><br>AngelScript
 </p>  
 
 ---
@@ -44,14 +70,26 @@ I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer*
 **Design & Editing Tools:**  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" title="Canva" alt="Canva" width="50" height="50"/><br>Canva  
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" width="50" height="50"/>
+  </a><br>Canva
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/><br>Figma  
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  </a><br>Figma
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" title="Video Editing" alt="Video Editing" width="50" height="50"/><br>Video Editing  
+
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="50" height="50"/>
+  </a><br>Video Editing
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photo Editing" alt="Photo Editing" width="50" height="50"/><br>Photo Editing  
+
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50"/>
+  </a><br>Photo Editing
 </p>
+
 
 ----
 
