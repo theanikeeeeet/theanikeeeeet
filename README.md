@@ -22,7 +22,7 @@
   </a>
   <br><br>
   <a href="https://x.com/theanikeeeeet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter (X)" width="40" height="40"/>
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank">
@@ -74,8 +74,8 @@
 ## 🎵 Currently Vibing To  
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31msdhntqihj4y5kyrxgkz3sybva">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31msdhntqihj4y5kyrxgkz3sybva&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/user/lckssbfpmf96of81p37dh51ce" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
