@@ -78,6 +78,13 @@
 
 ---
 
+## 🌱 GitHub Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=theanikeeeeet&bg_color=1a1b27&color=38bdae&line=6c63ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🎵 Currently Vibing To
 <p align="center">
   <a href="https://open.spotify.com/user/lckssbfpmf96of81p37dh51ce" target="_blank">
