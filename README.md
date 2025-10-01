@@ -1,6 +1,5 @@
-```markdown
-# Hi 👋, I'm Aniket Raj
-
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aniket Raj</h1>
 <h3 align="center">Frontend Developer • Video Editor • UI/UX Designer • Event Manager • Content Creator • Product Builder</h3>
 
 ---
@@ -10,7 +9,7 @@
 - 🎯 Passionate about **Event Management**, **Project Coordination**, and **Industry Collaboration**  
 - ✨ Skilled in **Photo & Video Editing** with a creative edge in visual content  
 - 🛠️ Adept at blending **technical workflows**, **marketing tactics**, and **creative media**  
-- 🌱 Exploring growth opportunities in **tech-driven projects**
+- 🌱 Exploring growth opportunities in **tech-driven projects**  
 
 ---
 
@@ -62,25 +61,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🟩 GitHub Contributions
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theanikeeeeet&theme=radical&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
-
----
-
-## 📈 Contributions (Yearly Heatmap)
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/theanikeeeeet" alt="Contribution Graph" />
-</p>
-
----
-
-## 🌱 GitHub Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=theanikeeeeet&bg_color=1a1b27&color=38bdae&line=6c63ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -91,20 +74,3 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" width="400"/>
   </a>
 </p>
-
----
-
-## 🔧 Tips & Next Steps
-- If a trophy isn't showing, double-check trophy conditions or try alternate trophy projects (e.g., forks/variants of the original).  
-- To show GitHub Achievements (native badges), go to your Profile → Settings → Contributions & achievements and enable "Show achievements".  
-- If any contributions are missing from the calendar, make sure the commits' email is connected to your GitHub account.
-
----
-
-## 📌 Pinned Repositories
-(Your pinned repositories will auto-render here on your profile.)
-
----
-
-*Last updated: Oct 1, 2025*
-```
