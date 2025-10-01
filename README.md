@@ -59,11 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanikeeeeet&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
----
-
----
 
 ## 🎵 Currently Vibing To
 <p align="center">
