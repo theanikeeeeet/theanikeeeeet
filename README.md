@@ -14,16 +14,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/> Instagram</a> &nbsp;&nbsp;
-  <a href="https://x.com/theanikeeeeet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/> X</a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/> LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/> LeetCode</a>
-</p>
-
----
-
 ## 🧰 Tech & Design Toolbox
 <p align="center">
   <!-- Languages & Frameworks -->
