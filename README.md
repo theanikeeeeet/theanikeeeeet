@@ -61,10 +61,13 @@
 
 ---
 
+---
+
 ## 🟩 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theanikeeeeet&theme=react-dark&hide_border=true&area=true&color=53b14f&line=FFFFFF" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
