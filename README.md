@@ -14,76 +14,38 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank" style="margin: 0 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" style="fill:#E4405F;"/><br>
-    <sub>Instagram</sub>
+<p align="center" style="display: flex; flex-direction: column; gap: 15px; align-items: center;">
+  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" style="fill:#E4405F;"/>
   </a>
-  <a href="https://x.com/theanikeeeeet" target="_blank" style="margin: 0 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50" style="fill:#1DA1F2;"/><br>
-    <sub>X</sub>
+  <a href="https://x.com/theanikeeeeet" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50" style="fill:#1DA1F2;"/>
   </a>
-  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank" style="margin: 0 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" style="fill:#0077B5;"/><br>
-    <sub>LinkedIn</sub>
+  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" style="fill:#0077B5;"/>
   </a>
-  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank" style="margin: 0 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="fill:#FFA116;"/><br>
-    <sub>LeetCode</sub>
+  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="fill:#FFA116;"/>
   </a>
 </p>
 
 ---
 
 ## 🧰 Tech & Design Toolbox
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; gap: 15px; align-items: center;">
   <!-- Languages & Frameworks -->
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
-    <sub>HTML5</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
-    <sub>CSS3</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
-    <sub>JavaScript</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>
-    <sub>TypeScript</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
-    <sub>React</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>
-    <sub>Node.js</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>
-    <sub>SQL</sub>
-  </a>
-  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <!-- Design & Editing Tools -->
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" width="50" style="fill:#00C4CC;"/><br>
-    <sub>Canva</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>
-    <sub>Figma</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" width="50" style="fill:#9999FF;"/><br>
-    <sub>Premiere Pro</sub>
-  </a>
-  <a style="margin:0 15px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>
-    <sub>Photoshop</sub>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" width="50" style="fill:#00C4CC;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" width="50" style="fill:#9999FF;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
 </p>
 
 ---
