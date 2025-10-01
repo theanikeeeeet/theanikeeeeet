@@ -14,66 +14,44 @@
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center" style="display:flex; flex-direction:column; align-items:center;">
-  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-    <br>Instagram
-  </a>
-  <br>
-  <a href="https://x.com/theanikeeeeet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter (X)" width="40" height="40"/>
-    <br>Twitter (X)
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-    <br>LinkedIn
-  </a>
-  <br>
-  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
-    <br>LeetCode
-  </a>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/> Instagram</a> &nbsp;&nbsp;
+  <a href="https://x.com/theanikeeeeet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/> X</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/> LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/> LeetCode</a>
 </p>
 
 ---
 
-## 🧰 Tech & Design Toolbox  
-
-<p align="center" style="display:flex; flex-direction:column; align-items:center;">
+## 🧰 Tech & Design Toolbox
+<p align="center">
   <!-- Languages & Frameworks -->
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/><br>HTML5</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/><br>CSS3</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/><br>React</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/><br>Node.js</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/><br>SQL</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" alt="ActionScript" width="50" height="50"/><br>ActionScript</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" alt="AngelScript" width="50" height="50"/><br>AngelScript</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> HTML5
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> CSS3
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> JavaScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> TypeScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> React
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> Node.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> SQL
+  <br><br>
   <!-- Design & Editing Tools -->
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" width="50" height="50"/><br>Canva</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/><br>Figma</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="50" height="50"/><br>Premiere Pro</a>
-  <br>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/><br>Photoshop</a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" width="50"/> Canva
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> Figma
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" width="50"/> Premiere Pro
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/> Photoshop
 </p>
 
 ---
+
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/> Instagram</a> &nbsp;&nbsp;
+  <a href="https://x.com/theanikeeeeet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/> X</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/> LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/> LeetCode</a>
+</p>
 
 ## 📊 GitHub Stats  
 
