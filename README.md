@@ -18,43 +18,60 @@ I'm a passionate **Frontend Developer**, **Video Editor**, and **UI/UX Designer*
 ## 🧰 Tech & Design Toolbox  
 
 **Languages & Frameworks:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![ActionScript](https://img.shields.io/badge/ActionScript-FF0000?style=flat&logo=adobe&logoColor=white)  
-![AngleScript](https://img.shields.io/badge/Angelscript-ED1C24?style=flat&logo=appveyor&logoColor=white)  
 
-**Design & Editing Tools:**  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=flat&logo=adobe-premiere-pro&logoColor=white)  
-![Photo Editing](https://img.shields.io/badge/Photo%20Editing-FF69B4?style=flat&logo=adobe-photoshop&logoColor=white)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/><br>HTML5  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/><br>CSS3  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/><br>TypeScript  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/><br>JavaScript  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/><br>React  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/><br>Node.js  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="50" height="50"/><br>SQL  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" title="ActionScript" alt="ActionScript" width="50" height="50"/><br>ActionScript  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appveyor.svg" title="AngelScript" alt="AngelScript" width="50" height="50"/><br>AngelScript  
+</p>  
 
 ---
+
+**Design & Editing Tools:**  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" title="Canva" alt="Canva" width="50" height="50"/><br>Canva  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/><br>Figma  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobepremierepro.svg" title="Video Editing" alt="Video Editing" width="50" height="50"/><br>Video Editing  
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photo Editing" alt="Photo Editing" width="50" height="50"/><br>Photo Editing  
+</p>
+
+----
 
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.instagram.com/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/theanikeeeeet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter (X)" width="40" height="40"/>
-  </a>
-  <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="color:#000000"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniket-raj-b2478b292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color:#0A66C2"/>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/theanikeeeeet/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40" style="color:#FFA116"/>
   </a>
-</p>  
+</p>
+
 
 ---
 
