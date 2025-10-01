@@ -1,5 +1,6 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aniket Raj</h1>
+```markdown
+# Hi 👋, I'm Aniket Raj
+
 <h3 align="center">Frontend Developer • Video Editor • UI/UX Designer • Event Manager • Content Creator • Product Builder</h3>
 
 ---
@@ -9,7 +10,7 @@
 - 🎯 Passionate about **Event Management**, **Project Coordination**, and **Industry Collaboration**  
 - ✨ Skilled in **Photo & Video Editing** with a creative edge in visual content  
 - 🛠️ Adept at blending **technical workflows**, **marketing tactics**, and **creative media**  
-- 🌱 Exploring growth opportunities in **tech-driven projects**  
+- 🌱 Exploring growth opportunities in **tech-driven projects**
 
 ---
 
@@ -61,9 +62,42 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=theanikeeeeet&theme=radical&row=1&column=6" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 📈 Contributions (Yearly Heatmap)
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/theanikeeeeet" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🎵 Currently Vibing To
 <p align="center">
   <a href="https://open.spotify.com/user/lckssbfpmf96of81p37dh51ce" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lckssbfpmf96of81p37dh51ce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" width="400"/>
   </a>
 </p>
+
+---
+
+## 🔧 Tips & Next Steps
+- If a trophy isn't showing, double-check trophy conditions or try alternate trophy projects (e.g., forks/variants of the original).  
+- To show GitHub Achievements (native badges), go to your Profile → Settings → Contributions & achievements and enable "Show achievements".  
+- If any contributions are missing from the calendar, make sure the commits' email is connected to your GitHub account.
+
+---
+
+## 📌 Pinned Repositories
+(Your pinned repositories will auto-render here on your profile.)
+
+---
+
+*Last updated: Oct 1, 2025*
+```
